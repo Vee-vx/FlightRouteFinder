@@ -66,13 +66,7 @@ Country names should be typed in full (e.g., SRI LANKA, not SL)
 👨‍💻 Developer Info
 Name: W.V.V.A. Botheju
 
-Student ID: 20232519
-
 Module: DOC 333 – Introduction to Programming Principles
-
-Module Leader: Mr. Sudarshan Welihinda
-
-Tutorial Teacher: Ms. Salitha
 
 Institute: Informatics Institute of Technology (IIT)
 
